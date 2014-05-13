@@ -1,0 +1,4 @@
+#!/bin/bash
+
+set -e
+echo "Hello from demo-element/post-install.d"
